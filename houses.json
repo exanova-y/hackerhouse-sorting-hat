@@ -1,0 +1,91 @@
+{
+  "primitive_axes": [
+    "aesthetic",
+    "scientific",
+    "communal",
+    "prestige",
+    "visionary",
+    "skeptical",
+    "biological",
+    "imaginative",
+    "competitive",
+    "nonconform",
+    "philosophic",
+    "longtermist",
+    "applied",
+    "lifestyle",
+    "epistemic"
+  ],
+  "houses": [
+    {
+      "name": "Vivarium",
+      "emoji": "🔮",
+      "terminal_color": "pink",
+      "description": "Beauty, awe, and the infinite",
+      "primitive_scores": [
+        0.90, 0.05, 0.20, 0.05, 0.80, 0.10, 0.05, 0.95, 0.10, 0.70, 0.85, 0.60,
+        0.05, 0.20, 0.15
+      ]
+    },
+    {
+      "name": "The Residency",
+      "emoji": "🎨",
+      "terminal_color": "blue",
+      "description": "A home for ambitious founders and builders around the globe.",
+      "primitive_scores": [
+        0.65, 0.20, 0.70, 0.30, 0.50, 0.20, 0.20, 0.75, 0.30, 0.50, 0.45, 0.40,
+        0.40, 0.55, 0.20
+      ]
+    },
+    {
+      "name": "The Embassy",
+      "emoji": "🧬",
+      "terminal_color": "cyan",
+      "description": "Building the long future, one atom at a time, supported by philanthropy and effective altruism.",
+      "primitive_scores": [
+        0.10, 0.90, 0.50, 0.40, 0.85, 0.50, 0.40, 0.35, 0.60, 0.60, 0.60, 0.90,
+        0.70, 0.20, 0.80
+      ]
+    },
+    {
+      "name": "Stanford Dorms",
+      "emoji": "🏛️",
+      "terminal_color": "red",
+      "description": "Elite knowledge factory adjacent to Sand Hill Road, get ready for implicit competition, sunlight and sandstone.",
+      "primitive_scores": [
+        0.30, 0.65, 0.30, 0.95, 0.40, 0.40, 0.10, 0.20, 0.95, 0.10, 0.20, 0.40,
+        0.65, 0.45, 0.55
+      ]
+    },
+    {
+      "name": "Aevitas House",
+      "emoji": "🧪",
+      "terminal_color": "green",
+      "description": "Biohacker commune chasing longevity maximalism — kitchen-table science, supplement stacks, mTOR at midnight.",
+      "primitive_scores": [
+        0.30, 0.70, 0.70, 0.20, 0.50, 0.30, 0.95, 0.30, 0.50, 0.70, 0.20, 0.70,
+        0.75, 0.90, 0.40
+      ]
+    },
+    {
+      "name": "The Convent",
+      "emoji": "⛪",
+      "terminal_color": "yellow",
+      "description": "Cathedral of philosopher-builders — ornate ceilings, paintings, poetry and brainwaves from the basement",
+      "primitive_scores": [
+        0.60, 0.50, 0.95, 0.30, 0.50, 0.30, 0.20, 0.75, 0.60, 0.70, 0.70, 0.30,
+        0.50, 0.65, 0.40
+      ]
+    },
+    {
+      "name": "Guzey's House",
+      "emoji": "🔬",
+      "terminal_color": "pink",
+      "description": "Meta-science contrarianism and epistemic hygiene (This is a fake group house.).",
+      "primitive_scores": [
+        0.10, 0.45, 0.20, 0.10, 0.30, 0.95, 0.10, 0.30, 0.40, 0.85, 0.55, 0.30,
+        0.40, 0.20, 0.95
+      ]
+    }
+  ]
+}
